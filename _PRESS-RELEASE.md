@@ -1,4 +1,5 @@
 # Project Name #
+    Converse Sated
 
 <!-- 
 > This material was originally posted [here](http://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management). It is reproduced here for posterities sake.
@@ -17,28 +18,33 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+    Converse Sated 
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+    Learning through discourse.
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+    Converse Sated is an application that will connect people who are interested in having discourse on a topic. Users
+    can sign up for topics and pick a side. They will be matched with people on the opposing side. At a given time, a 
+    video cam will open up for both people and they can discuss the topic. After the discussion they can rank their counterpart
+    on a few metrics (knowledge, style, etc...). Top conversations (based on ratings of participants) will be made public for people to watch.
 
 ## Problem ##
-  > Describe the problem your product solves.
+    People desire knowledge and connection. Communication can be challenging.
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+    This product provides a platform for people to acquire knowledge and connection through discussion. In addition, 
+    people can work on their communication skills and receive feedback that can help them iterate. 
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+    Communication can create change.
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+    Sign up through fb or google; pick a topic; start conversing.
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+    Learning about other perspectives has really helped me understand the other-side. I have even altered a few opinions
+    based on conversations that I have had! 
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+    Visit https://www.conversesated.com and let your desire to converse be sated.
