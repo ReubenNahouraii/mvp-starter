@@ -1,0 +1,29 @@
+
+li {
+    display: inline;
+    margin-left: 20px;
+    color: blue;
+}
+
+li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.post, .user {
+    padding: 20px;
+    background-color: lightgrey;
+    margin: 20px;
+    border-radius: 25px;
+}
+
+.search {
+    margin-left: 20px;
+}
+
+#page {
+    width: 250px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
